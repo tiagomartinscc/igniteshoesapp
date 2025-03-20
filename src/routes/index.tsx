@@ -10,7 +10,8 @@ import { Notification } from '../components/Notification';
 const linking = {
   prefixes: [
     'com.rocketseat.igniteshoes://',
-    'igniteshoes://'
+    'igniteshoes://',
+    'igniteshoesapp://'
   ],
   config: {
     screens: {

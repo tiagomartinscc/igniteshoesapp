@@ -27,6 +27,8 @@
         <data android:scheme="com.rocketseat.igniteshoes"/>
         <data android:scheme="igniteshoes"/>
         <data android:scheme="exp+igniteshoes"/>
+        <data android:scheme="igniteshoesapp"/>
+        <data android:scheme="exp+igniteshoesapp"/>
       </intent-filter>
     </activity>
   </application>
